@@ -15,6 +15,8 @@
 
 - **`pnpm dev`** to start nodemon
 
+- `@tsconfig/node18` version of this depends on the version of node
+
 ### SWC
 
 - [SWC](swc.rs) is **_rust based_** and can be used for both compilation and bundling

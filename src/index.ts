@@ -1,3 +1,3 @@
-import { hey } from './hey.js';
+import { hey } from './hey';
 
 console.log(hey);
